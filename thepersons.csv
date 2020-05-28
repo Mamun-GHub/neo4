@@ -1,0 +1,8 @@
+personid,name,age,knows,since
+p1,Joe,22,p2,2010
+p2,Joe,23,p3,2011
+p2,Ann,22,p3,2010
+p3,Bill,21,,
+p4,Pat,23,p5,2012
+p4,Pat,23,p1,2011
+p5,John,24,p3,2011
